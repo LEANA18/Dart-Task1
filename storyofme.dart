@@ -1,6 +1,3 @@
-
-
-//import 'package:storyofme/storyofme.dart' as storyofme;
 import 'dart:io';
 
 main() 
